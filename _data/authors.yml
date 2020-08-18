@@ -1,0 +1,17 @@
+sdc:
+    name: Sabrael D. Carroll
+    picture: /assets/images/author-sdc.png
+    twitter: "rabbitdumpling"
+    links:
+    - title: Twitter
+      url: https://twitter.com/rabbitdumpling
+      icon: fab fa-twitter
+    - title: Instagram
+      url: https://instagram.com/rabbitdumpling
+      icon: fab fa-instagram
+    - title: Twitch
+      url: https://twitch.tv/rabbitdumpling
+      icon: fab fa-twitch
+    - title: GitHub
+      url: https://github.com/rabbitdumpling
+      icon: fab fa-github
