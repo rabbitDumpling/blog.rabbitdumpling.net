@@ -1,0 +1,85 @@
+locale: en-us
+
+title: rabbitDumpling(dot)net
+email: sabrael@rabbitdumpling.net
+twitter_username: rabbitDumpling
+github_username:  rabbitDumpling
+description: >-
+  Being the many things I do in life.
+baseurl: ""
+url: "https://blog.rabbitdumpling.net"
+logo: /assets/images/logo.png
+skin: "/assets/css/skins/mediocre.css"
+
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+read_time: true
+words_per_minute: 200
+
+paginate: 3
+paginate_path: /page:num/
+
+google_fonts:
+  - name: "Oswald"
+    weights: "400,400i,600,600i"
+  - name: "Markazi Text"
+    weights: "400,400i,600,600i"
+
+theme: jekyll-theme-so-simple
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+liquid:
+  error_mode: strict
+
+markdown: kramdown
+
+feed:
+  path: atom.xml
+
+# Front Matter Defaults
+defaults:
+  # Post defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      excerpt_separator: "<!--more-->"
+      comments: false
+      share: true
+      author: sdc
+  # Page defaults
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+      excerpt_separator: "<!--more-->"
+      comments: false
+      share: true
+
+# Collections
+collections:
+  finalbattle:
+    output: true
+    permalink: /:collection/:path/
+
+# Footer Links
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/rabbitdumpling
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/rabbitdumpling
+    icon: fab fa-github-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+copyright: "This site is supported with ❤️ by my [supporters](https://ko-fi.com/rabbitdumpling)."
+
