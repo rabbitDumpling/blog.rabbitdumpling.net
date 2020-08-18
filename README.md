@@ -6,8 +6,6 @@ My name is Sabrael D. Carroll (she/her), probably better known as rabbitDumpling
 
 This blog was written using [Visual Studio Code][vscode], and is compiled with the help of [jekyll][jekyll-org]. The layout is a modified version of [So Simple][so-simple] by Michael Rose. The color scheme has been changed, featuring <span style="color:#DBAAA9;">**Pastel Pink**</span> and <span style="color:#746D71;">**Sonic Silver**</span>, as inspired by one of [my favorite mugs][mug]. The typography features a number of fonts available through Google Fonts under the [Open Fonts Licence][font-ofl]. The monospaced font used in pre-format text is [Anonymous Pro][font-mono], the sans-serif font used in the headers is [Oswald][font-sans], and the serif font used in the body text is [Markazi Text][font-serif].
 
-Currently, this blog contains approximately {% for post in site.posts %}{{ page.content | number_of_words }}{% endfor %} words. Isn't that neat?
-
 ## License
 
 All content of rabbitDumpling(dot)net—text, photos and video—unless specifically noted, is Copyright (c) 2020 Sabrael Carroll/rabbitDumpling.
