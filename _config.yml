@@ -65,7 +65,10 @@ defaults:
 
 # Collections
 collections:
-  finalbattle:
+  ffc:
+    output: true
+    permalink: /:collection/:path/
+  final_battle:
     output: true
     permalink: /:collection/:path/
 
@@ -81,5 +84,5 @@ footer_links:
     url: atom.xml
     icon: fas fa-rss-square
 
-copyright: "This site is supported with ❤️ by my [supporters](https://ko-fi.com/rabbitdumpling)."
+copyright: "This site is supported with ❤️ by my [donors](https://ko-fi.com/rabbitdumpling)."
 
