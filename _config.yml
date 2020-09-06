@@ -86,3 +86,5 @@ footer_links:
 
 copyright: "This site is supported with ❤️ by my [donors](https://ko-fi.com/rabbitdumpling)."
 
+include:
+  - .htaccess
