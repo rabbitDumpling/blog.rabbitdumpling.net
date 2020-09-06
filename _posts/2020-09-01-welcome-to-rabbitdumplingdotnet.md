@@ -6,6 +6,7 @@ image:
   thumbnail: /assets/images/2020-09-01-hd.png
   caption: "Photo by [Anna Shvets](https://www.pexels.com/@shvetsa) from [Pexels](https://www.pexels.com)"
 author: sdc
+collections: ffc
 tags:
  - News
  - "Final Fantasy (in)Complete"
