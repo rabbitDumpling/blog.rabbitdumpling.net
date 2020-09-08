@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate"
   gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
