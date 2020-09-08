@@ -14,6 +14,7 @@ skin: "/assets/css/skins/mediocre.css"
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
+permalink: /posts/:year/:week_:title
 
 read_time: true
 words_per_minute: 200
@@ -86,6 +87,3 @@ footer_links:
     icon: fas fa-rss-square
 
 copyright: "This site is supported with ❤️ by my [donors](https://ko-fi.com/rabbitdumpling)."
-
-include:
-  - .htaccess
