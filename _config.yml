@@ -14,7 +14,7 @@ skin: "/assets/css/skins/mediocre.css"
 search_full_content: true
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
-permalink: /posts/:year/:week_:title
+permalink: post/:year/:title
 
 read_time: true
 words_per_minute: 200
