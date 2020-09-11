@@ -5,11 +5,11 @@ author: sdc
 permalink: /projects/
 ---
 
-Here are some of the projects that I've worked on, or am currently working on.
-  
+Here are some of the projects that I'm currently working on. I'm always looking for collaborators on new and current projects. Feel free to reach out if you want to work together on something.
+ 
 ![Final Fantasy (in)Complete](../assets/images/project-ffc.png){: .align-left}
 ### [Final Fantasy (in)Complete](/ffc/)
-After rediscovering a fondness for RPGs I had forgotten, I have challenged myself to play and beat the first ten mainline Final Fantasy games. When a member of my audience jokingly asked if I was going to 100% finish them, I clarified these were going to be technically complete—(in)Complete as it were.
+When I changed the format of my live stream to focus on RPGs, I thought I'd revisit some classics. The first challenge was to beat the first ten mainline Final Fantasy. When I announced this, someone in my audience asked if I was going to 100% finish each game, to which my answer was a resounding "No."
 
 ### [Final Battle](/final_battle/)
-My oldest and most detailed RPG project, Final Battle is a universal RPG system whose goal isn't to just let people play whatever setting or genre they want, but also combine them and se the interesting behavior of mixing together different styles of game easily. It is meant to allow tales of space faring explorer to go on an adventure along side magical cowboys and high-fantasy elf.
+A gunslinger, a psychic elf, a pyromancer high schooler, and a space baker walk into a pub. Their goal is to get the latest gossip and earn some money: this is Final Battle. A universal system to allow characters from different universes to come together. Final Battle is by far my largest RPG project.
