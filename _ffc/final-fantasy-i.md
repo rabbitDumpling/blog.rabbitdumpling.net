@@ -3,8 +3,8 @@ layout: post
 title: "Final Fantasy"
 date: 2020-09-11
 image:
-  path: ../assets/images/ffc-lg.png
-  thumbnail: ../assets/images/ffc-lg.png
+  path: ../assets/images/ff1-lg.png
+  thumbnail: ../assets/images/ff1-lg.png
   caption: "Illustration by [Angelica Alzona](https://www.angelicaalzona.com/)"
 author: sdc
 tags:
