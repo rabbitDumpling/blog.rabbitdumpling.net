@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Final Fantasy (in)Complete"
-date:   2020-09-10
+title: Final Fantasy (in)Complete
+date: 2020-09-10T00:00:00.000Z
 image:
   path: ../assets/images/ffc-lg.png
   thumbnail: ../assets/images/ffc-lg.png
-  caption: "Logo by [Sabrael Carroll](http://www.rabbitdumpling.net/)"
+  caption: 'Logo by [Sabrael Carroll](http://www.rabbitdumpling.net/)'
 author: sdc
+tags:
+  - Final Fantasy
+  - Streaming
 categories:
- - "Final Fantasy (in)Complete"
+  - Final Fantasy (in)Complete
 ---
 
 Not even including direct sequels and spin-offs, Final Fantasy has a long legacy. I'd recently discovered a fondness for RPGs I had forgotten. Where better to express that fondness than some classic games? So I decided to play the first 10 of the mainline Final Fantasy games throughout 2020. At least that was the plan, I've since decided to take my time. The first thing to decide on is which version of each game I was playing. And also all the work that is going to entail for streaming it.

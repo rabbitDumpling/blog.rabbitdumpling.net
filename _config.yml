@@ -12,7 +12,7 @@ logo: /assets/images/logo.png
 skin: "/assets/css/skins/mediocre.css"
 
 search_full_content: true
-category_archive_path: "/categories/#"
+category_archive_path: "/"
 tag_archive_path: "/tags/#"
 permalink: posts/:year/:title:output_ext
 
@@ -64,15 +64,6 @@ defaults:
       excerpt_separator: "<!--more-->"
       comments: false
       share: true
-
-# Collections
-collections:
-  ffc:
-    output: true
-    permalink: /:collection/:path/
-  final_battle:
-    output: true
-    permalink: /:collection/:path/
 
 # Footer Links
 footer_links:

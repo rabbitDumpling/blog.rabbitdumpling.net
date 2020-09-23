@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Bug Report Special: Final Fantasy II"
-date: 2020-09-20
+title: 'Bug Report Special: Final Fantasy II'
+date: 2020-09-20T00:00:00.000Z
 image:
   path: ../assets/images/ff2bug-lg.png
   thumbnail: ../assets/images/ff2bug-lg.png
-  caption: "Composition by [Sabrael Carroll](https://www.rabbitdumpling.net/)"
+  caption: 'Composition by [Sabrael Carroll](https://www.rabbitdumpling.net/)'
 author: sdc
 tags:
-    - Final Fantasy
-    - Streaming
+  - Final Fantasy
+  - Streaming
 categories:
-    - Final Fantasy (in)Complete
+  - Final Fantasy (in)Complete
 ---
 
 Describing my attempts to play Final Fantasy II as anything less than frustrating would be a disservice. All the nonsense I've had to put up with has been insurmountable. I have to admit, I almost just skipped this entry due to frustration. I persevered and got about 1/3rd of the way into the game. However, more issues cropped up and so I put it on hold. With the end of Final Fantasy VI, I decided I wanted to finish the 2D era of games before moving ahead. To explain this delay, I have chronicled my adventures here.

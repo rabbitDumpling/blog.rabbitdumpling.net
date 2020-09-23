@@ -1,9 +1,7 @@
 ---
 layout: page
 title: "Final Fantasy - Names"
-date:   2000-01-01
-author: sdc
-permalink: /ffc-names/
+permalink: /ffc/names/
 ---
 
 Last Updated: 10 Sept 2020

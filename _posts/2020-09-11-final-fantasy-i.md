@@ -8,11 +8,11 @@ image:
   caption: "Illustration by [Angelica Alzona](https://www.angelicaalzona.com/)"
 author: sdc
 tags:
-    - Final Fantasy
-    - RPG Review
-    - Streaming
+  - Final Fantasy
+  - RPG Review
+  - Streaming
 categories:
-    - Final Fantasy (in)Complete
+  - Final Fantasy (in)Complete
 ---
 
  

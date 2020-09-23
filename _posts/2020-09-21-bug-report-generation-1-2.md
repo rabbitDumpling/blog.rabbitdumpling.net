@@ -8,10 +8,10 @@ image:
   caption: "Composition by [Sabrael Carroll](https://www.rabbitdumpling.net/)"
 author: sdc
 tags:
-    - Final Fantasy
-    - Streaming
+  - Final Fantasy
+  - Streaming
 categories:
-    - Final Fantasy (in)Complete
+  - Final Fantasy (in)Complete
 ---
 
 The desire to play the beginning of the Final Fantasy franchise has proven to be a cursed endeavor. So far we have had some kind of issue or less than stellar gameplay for some reason or another. So while we are making the transition to the 3D generation of games, enjoy a compilation of the issues we have had to struggle with!
@@ -22,7 +22,7 @@ The desire to play the beginning of the Final Fantasy franchise has proven to be
 Shockingly, the playthrough of Final Fantasy I was pretty clean and straight forward. This is what led to a false sense of security in what was going to happen to me next.
 
 ### Final Fantasy II
-[I've one into extraordinary detail of this one.](../bug-report-special-final-fantasy-ii)
+[I've one into extraordinary detail of this one.]({% post_url 2020-09-20-bug-report-special-final-fantasy-ii %})
 
 ### Final Fantasy III
 There were some graphical issues with the default UI in the PC version of **Final Fantasy III**. This was remedied by a simple self-applied patch. However, a week or two after I began playing, Square soft decided to update a game it hadn't touched since July 2014. Six years later, and they opted to release a patch that, among many things, messed with the UI. This completely broke my game. We could no longer read dialogue boxes. This was promptly acknowledged and a followed-up patch released. This was a frustrating couple of days as I was unsure if we were going to be able to keep playing.
