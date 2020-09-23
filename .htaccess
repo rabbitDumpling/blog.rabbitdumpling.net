@@ -4,7 +4,7 @@ RewriteCond %{HTTPS} !on
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # BEGIN Redirects
-Redirect 301 /final-fantasy-in-complete/ https://blog.rabbitdumpling.net/ffc/
+Redirect 301 /final-fantasy-in-complete https://blog.rabbitdumpling.net/ffc/
 
 # BEGIN Cache Controls
 # 1 year
