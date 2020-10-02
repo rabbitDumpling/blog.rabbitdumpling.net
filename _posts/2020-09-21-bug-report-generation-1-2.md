@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bug Report, Generation 1 & 2"
+title: "Bug Report: Generation 1 & 2"
 date: 2020-09-21
 image:
   path: ../assets/images/bug1-lg.png
