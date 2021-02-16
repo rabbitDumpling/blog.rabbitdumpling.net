@@ -60,7 +60,7 @@ Names with a * have special voices requested for them.
 * ~~Umaro~~ NU
 
 ### Final Fantasy VII
-* ~~Cloud~~
+* ~~Cloud~~ 
 * ~~Barret~~
 * ~~Tifa~~
 * ~~Aerith~~
@@ -77,12 +77,12 @@ Names with a * have special voices requested for them.
 * ~~Griever~~ Kate
 * ~~Quezacotl~~
 * ~~Shiva~~
-* Ifrit
+* ~~Ifrit~~
 * ~~Siren~~
 * ~~The Brothers~~
 * Diablos
 * ~~Carbuncle~~
-* Leviathan
+* ~~Leviathan~~
 * ~~Pandemona~~
 * ~~Cerberus~~
 * ~~Alexander~~
@@ -110,7 +110,7 @@ Names with a * have special voices requested for them.
 * ~~Shiva~~
 * ~~Bahamut~~
 * Yojimbo
-* Anima
+* ~~Anima~~
 * ~~The Magus Sisters~~
 
 [^1]: Custom names are only available in the 2D version of Final Fantasy IV.
