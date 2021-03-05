@@ -65,7 +65,7 @@ Names with a * have special voices requested for them.
 * ~~Tifa~~
 * ~~Aerith~~
 * ~~Red XIII~~
-* ~~Cait Sith~~
+* ~~Cait Sith~~*
 * ~~Cid~~
 * ~~Yuffie~~
 * ~~Vincent~~
