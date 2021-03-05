@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Final Fantasy III"
+title: "Final Fantasy IV"
 date: 2021-03-04
 image:
   path: ../assets/images/ff4-lg.png
