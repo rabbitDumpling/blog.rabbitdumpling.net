@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final Fantasy V"
-date: 2021-03-04
+date: 2021-03-12
 image:
   path: ../assets/images/ff5-lg.png
   thumbnail: ../assets/images/ff5-lg.png
