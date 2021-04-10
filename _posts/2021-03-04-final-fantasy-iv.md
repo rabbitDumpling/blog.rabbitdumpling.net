@@ -3,13 +3,13 @@ layout: post
 title: "Final Fantasy IV"
 date: 2021-03-04
 image:
-  path: ../assets/images/ff4-lg.png
-  thumbnail: ../assets/images/ff4-lg.png
+  path: ../assets/images/ffc/ff4-lg.png
+  thumbnail: ../assets/images/ffc/ff4-lg.png
   caption: "Illustration by [Angelica Alzona](https://www.angelicaalzona.com/)"
 author: sdc
 tags:
   - Final Fantasy
-  - RPG Review
+  - Review
   - Streaming
 categories:
   - Final Fantasy (in)Complete

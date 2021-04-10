@@ -3,8 +3,8 @@ layout: post
 title: "Final Fantasy V"
 date: 2021-03-12
 image:
-  path: ../assets/images/ff5-lg.png
-  thumbnail: ../assets/images/ff5-lg.png
+  path: ../assets/images/ffc/ff5-lg.png
+  thumbnail: ../assets/images/ffc/ff5-lg.png
   caption: "Illustration by [Angelica Alzona](https://www.angelicaalzona.com/)"
 author: sdc
 tags:
@@ -14,8 +14,6 @@ tags:
 categories:
   - Final Fantasy (in)Complete
 ---
-
-Final Fantasy V
 
 Squaresoft was on a roll with their second generation of games, giving us a new game after only a little over a year. Final Fantasy V of course wouldn't see this release until the Playstation release in 1998. Well, officially at least, unofficially we had the first fan translation patch for the SNES version in 1997. [An endeavor I encourage people to read about here](https://kotaku.com/how-three-kids-beat-the-odds-and-translated-final-fanta-1794628286){:target="_blank"}. This is hands down, as of playing the game, my favorite game in the franchise. I've played the SNES, Playstation, and Advance versions, and I've loved all of them. The Advance version was the one I beat and mastered. I maxed out all the classes, beat all the secret bosses, and loved doing it! This would again be the version I would be playing for the stream.
 

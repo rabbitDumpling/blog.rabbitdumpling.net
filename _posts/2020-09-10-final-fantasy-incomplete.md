@@ -3,8 +3,8 @@ layout: post
 title: Final Fantasy (in)Complete
 date: 2020-09-10T00:00:00.000Z
 image:
-  path: ../assets/images/ffc-lg.png
-  thumbnail: ../assets/images/ffc-lg.png
+  path: ../assets/images/ffc/ffc-lg.png
+  thumbnail: ../assets/images/ffc/ffc-lg.png
   caption: 'Logo by [Sabrael Carroll](http://www.rabbitdumpling.net/)'
 author: sdc
 tags:

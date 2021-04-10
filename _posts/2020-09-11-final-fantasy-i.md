@@ -3,13 +3,13 @@ layout: post
 title: "Final Fantasy"
 date: 2020-09-11
 image:
-  path: ../assets/images/ff1-lg.png
-  thumbnail: ../assets/images/ff1-lg.png
+  path: ../assets/images/ffc/ff1-lg.png
+  thumbnail: ../assets/images/ffc/ff1-lg.png
   caption: "Illustration by [Angelica Alzona](https://www.angelicaalzona.com/)"
 author: sdc
 tags:
   - Final Fantasy
-  - RPG Review
+  - Review
   - Streaming
 categories:
   - Final Fantasy (in)Complete

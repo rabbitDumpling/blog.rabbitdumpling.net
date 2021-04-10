@@ -3,8 +3,8 @@ layout: post
 title: 'Bug Report Special: Final Fantasy II'
 date: 2020-09-20T00:00:00.000Z
 image:
-  path: ../assets/images/ff2bug-lg.png
-  thumbnail: ../assets/images/ff2bug-lg.png
+  path: ../assets/images/ffc/ff2bug-lg.png
+  thumbnail: ../assets/images/ffc/ff2bug-lg.png
   caption: 'Composition by [Sabrael Carroll](https://www.rabbitdumpling.net/)'
 author: sdc
 tags:
