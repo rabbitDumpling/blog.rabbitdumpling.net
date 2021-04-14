@@ -60,11 +60,11 @@ Names with a * have special voices requested for them.
 * ~~Umaro~~ NU
 
 ### Final Fantasy VII
-* ~~Cloud~~ 
-* ~~Barret~~
+* ~~Cloud~~ *
+* ~~Barret~~*
 * ~~Tifa~~
-* ~~Aerith~~
-* ~~Red XIII~~
+* ~~Aerith~~*
+* ~~Red XIII~~*
 * ~~Cait Sith~~*
 * ~~Cid~~
 * ~~Yuffie~~
