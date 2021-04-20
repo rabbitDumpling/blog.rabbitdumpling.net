@@ -8,6 +8,7 @@ description: >-
   Being the many things I do in life.
 baseurl: ""
 url: "https://blog.rabbitdumpling.net"
+images: "https://blog.rabbitdumpling.net/assets/images"
 logo: /assets/images/logo.png
 skin: "/assets/css/skins/mediocre.css"
 
